@@ -225,7 +225,7 @@ try:
     #   codigo_municipio    = row[3] - Cuarta  columna
     #   municipio           = row[4] - Quinta  columna
     #---------------------------------------------------------------------------------
-    archivo_fisico = 'colombia-dane-departamentos.csv'
+       archivo_fisico = r'D:\BIGDATA - TAREA 02\python\colombia-dane-departamentos.csv'
 
     # ---------------------------------------------------------------------------------
     # Recorrido/Lectura de los registros de la hoja de cálculo
