@@ -16,5 +16,5 @@ Incluye procesos ETL para carga de departamentos, municipios y operaciones.
 - Git / GitHub
 
 # Colaboradores
-Felipe Cano R.
-Samuel Henao V.
+- Felipe Cano R.
+- Samuel Henao V.
