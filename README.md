@@ -14,3 +14,7 @@ Incluye procesos ETL para carga de departamentos, municipios y operaciones.
 - PostgreSQL
 - Python
 - Git / GitHub
+
+# Colaboradores
+Felipe Cano R.
+Samuel Henao V.
